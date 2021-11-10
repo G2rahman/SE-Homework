@@ -1,0 +1,63 @@
+body {
+    background: lightblue;
+}
+
+#main-header {
+    text-align: right;
+    background-color: dimgrey;
+    color: black;
+    margin-left: 20px;
+}
+
+h2 {
+    text-align: left;
+    background-color: dimgrey;
+    color: red;
+    padding: 10px;
+}
+
+
+h3 {
+    text-align: center;
+    background-color: dimgrey;
+    color: black;
+    padding: 10px;
+}
+
+header .name {
+    font-size: 20px;
+    padding-left: 20px;
+    color: black;
+    background: transparent;
+}
+
+.welcome {
+    text-align: center;
+}
+
+#box1 {
+    background-color: blue;
+}
+
+#box1:hover {
+    background-color: orange;
+}
+
+footer {
+    width: 100%;
+    background-color: blue;
+}
+
+footer h2 {
+  background:  transparent;
+  text-align:  center;
+  padding:  16px;
+}
+
+
+
+
+
+
+
+
